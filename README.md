@@ -17,7 +17,7 @@
 - 🛠️ Currently building **BazaarX/PalengKART** — a multi-sided marketplace platform (buyer, seller, rider, and admin roles)
 - 💻 Comfortable across the full stack: frontend, backend, and a fair bit of DevOps/debugging
 - 🌱 Learning by shipping — most of what I know comes from building real, messy, production-adjacent projects
-- 🎮 When I'm not coding, I'm probably dropping into Apex Legends
+- 🎮 When I'm not coding, I'm probably doing nothing
 
 ---
 
