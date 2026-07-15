@@ -1,4 +1,4 @@
-<h1 align="center">cja</h1>
+<h1 align="center">Hi, I'm Chris</h1>
 <p align="center">Full-stack developer building a marketplace platform end-to-end — frontend, backend, mobile, and the debugging in between.</p>
 
 <p align="center">
