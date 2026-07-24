@@ -2,9 +2,9 @@
 <p align="center">Full-stack developer building a marketplace platform end-to-end — frontend, backend, mobile, and the debugging in between.</p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-171717?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-url.com"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-171717?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="cjalbertbagacina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-171717?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="linkedin.com/in/chris-john-albert-bagacina-7269b534a/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://cjbagacina.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-171717?style=flat-square&logo=vercel&logoColor=white" /></a>
   <img alt="Open to internships" src="https://img.shields.io/badge/-Open_to_internships-171717?style=flat-square" />
 </p>
 
