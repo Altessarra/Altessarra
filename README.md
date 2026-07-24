@@ -30,8 +30,8 @@ I've worked across all three — cart & checkout, buyer settings and saved payme
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altessarra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altessarra&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Altessarra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Altessarra&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
 </p>
 
 <p align="center">
