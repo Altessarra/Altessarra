@@ -17,25 +17,13 @@
 | Web app | React, TypeScript, Vite, Tailwind, Framer Motion |
 | Mobile app | React Native, Expo |
 | Backend | Supabase (Postgres, RLS, Realtime, Auth) |
-| Payments | PayMongo |
 
 I've worked across all three — cart & checkout, buyer settings and saved payment methods, a voucher/discount engine, registry & gifting, seller earnings and payout reporting, and admin live-session monitoring. Most of what's on this profile came out of shipping and debugging that project for real, not tutorials.
 
 ## Stack
 
-**Frontend** — React · TypeScript · React Native / Expo · Tailwind CSS · Framer Motion
-**Backend** — Node.js · Express · Supabase · PostgreSQL · PHP / MySQL
-**Other** — Java · Git · Cloudinary · PayMongo
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altessarra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Altessarra&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altessarra&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="60%" />
-</p>
+**Frontend** — · HTML5 · CSS3 · JavaScript6 · React · TypeScript · React Native / Expo · Tailwind CSS · Framer Motion ·
+**Backend** — · PHP · Node.js · Express · Supabase · PostgreSQL · MySQL
+**Other** — · C/C++ · C# · Java · Git · Cloudinary
 
 <p align="center"><sub>2nd year IT student, Polytechnic University of the Philippines</sub></p>
