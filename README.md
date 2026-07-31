@@ -1,29 +1,80 @@
 <h1 align="center">Hi, I'm Chris</h1>
-<p align="center">Full-stack developer building a marketplace platform end-to-end — frontend, backend, mobile, and the debugging in between.</p>
 
 <p align="center">
-  <a href="cjalbertbagacina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-171717?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="linkedin.com/in/chris-john-albert-bagacina-7269b534a/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://cjbagacina.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-171717?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <img alt="Open to internships" src="https://img.shields.io/badge/-Open_to_internships-171717?style=flat-square" />
+Full-Stack Developer focused on building scalable web and mobile applications, with experience across frontend development, backend systems, database architecture, and modern software engineering practices.
 </p>
 
-## What I'm building
+<p align="center">
+  <a href="mailto:cjalbertbagacina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-171717?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/chris-john-albert-bagacina-7269b534a"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://cjbagacina.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-171717?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <img alt="Open to internships" src="https://img.shields.io/badge/-Open_to_Opportunities-171717?style=flat-square" />
+</p>
 
-**BazaarX / PalengKART** — a multi-sided marketplace with buyer, seller, rider, and admin roles, spanning three surfaces:
+---
 
-| Surface | Stack |
-|---|---|
-| Web app | React, TypeScript, Vite, Tailwind, Framer Motion |
-| Mobile app | React Native, Expo |
-| Backend | Supabase (Postgres, RLS, Realtime, Auth) |
+## About Me
 
-I've worked across all three — cart & checkout, buyer settings and saved payment methods, a voucher/discount engine, registry & gifting, seller earnings and payout reporting, and admin live-session monitoring. Most of what's on this profile came out of shipping and debugging that project for real, not tutorials.
+I am a Full-Stack Developer with hands-on experience developing and maintaining production-scale applications. My work spans frontend interfaces, backend services, database design, and mobile development, with a strong emphasis on writing maintainable, scalable, and user-focused software.
 
-## Stack
+I enjoy solving complex engineering problems, refactoring large codebases, and building applications that are both performant and reliable.
 
-**Frontend** — · HTML5 · CSS3 · JavaScript6 · React · TypeScript · React Native / Expo · Tailwind CSS · Framer Motion ·
-**Backend** — · PHP · Node.js · Express · Supabase · PostgreSQL · MySQL
-**Other** — · C/C++ · C# · Java · Git · Cloudinary
+## Featured Project
 
-<p align="center"><sub>2nd year IT student, Polytechnic University of the Philippines</sub></p>
+### BazaarX / PalengKART
+
+A multi-sided marketplace platform supporting buyers, sellers, riders, and administrators across web, mobile, and backend services.
+
+| Platform | Technologies |
+|----------|--------------|
+| **Web Application** | React, TypeScript, Vite, Tailwind CSS, Framer Motion |
+| **Mobile Application** | React Native, Expo |
+| **Backend & Database** | Supabase, PostgreSQL, Row-Level Security (RLS), Realtime, Authentication |
+
+Throughout the project, I have contributed to features including:
+
+- Shopping cart and checkout workflows
+- Buyer settings and saved payment methods
+- Voucher and discount management
+- Registry and gifting functionality
+- Seller earnings and payout reporting
+- Administrative dashboards and live session monitoring
+- Architecture refactoring and UI improvements
+- Performance optimization, debugging, and production bug fixes
+
+The majority of the projects showcased on this profile are the result of real-world software development and production experience.
+
+---
+
+## Technology Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React
+- React Native
+- Expo
+- Tailwind CSS
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+- PHP
+- Supabase
+- PostgreSQL
+- MySQL
+
+### Languages & Tools
+- C
+- C++
+- C#
+- Java
+- Git & GitHub
+- Cloudinary
+
+<p align="center">
+  <sub>Information Technology Student • Polytechnic University of the Philippines</sub>
+</p>
