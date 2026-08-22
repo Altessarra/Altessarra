@@ -1,80 +1,70 @@
-<h1 align="center">Hi, I'm Chris</h1>
+<div align="center">
 
-<p align="center">
-Full-Stack Developer focused on building scalable web and mobile applications, with experience across frontend development, backend systems, database architecture, and modern software engineering practices.
-</p>
+<img src="./public/creator.png" alt="Chris John Albert Bagacina" width="150" />
 
-<p align="center">
-  <a href="mailto:cjalbertbagacina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-171717?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/chris-john-albert-bagacina-7269b534a"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://cjbagacina.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-171717?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <img alt="Open to internships" src="https://img.shields.io/badge/-Open_to_Opportunities-171717?style=flat-square" />
-</p>
+# Chris John Albert Bagacina
 
----
+### Full-Stack Developer · Product-minded Engineer
 
-## About Me
+I build digital products that make complex workflows feel clear — from
+real-time developer tools and marketplace systems to scheduling platforms and
+editorial web experiences.
 
-I am a Full-Stack Developer with hands-on experience developing and maintaining production-scale applications. My work spans frontend interfaces, backend services, database design, and mobile development, with a strong emphasis on writing maintainable, scalable, and user-focused software.
+<a href="https://github.com/Altessarra">GitHub</a> ·
+<a href="https://www.linkedin.com/in/chris-john-albert-bagacina-7269b534a/">LinkedIn</a> ·
+<a href="mailto:chrisjohnbagacina@gmail.com">Email</a>
 
-I enjoy solving complex engineering problems, refactoring large codebases, and building applications that are both performant and reliable.
+</div>
 
-## Featured Project
+## About
 
-### BazaarX / PalengKART
+- Based in Antipolo, Rizal, Philippines
+- Available for full-stack, product engineering, and frontend opportunities
+- Interested in the space between product thinking, interface design, and reliable systems
+- Currently building and documenting **ALTAIR**, my developer portfolio
 
-A multi-sided marketplace platform supporting buyers, sellers, riders, and administrators across web, mobile, and backend services.
+## What I build
 
-| Platform | Technologies |
-|----------|--------------|
-| **Web Application** | React, TypeScript, Vite, Tailwind CSS, Framer Motion |
-| **Mobile Application** | React Native, Expo |
-| **Backend & Database** | Supabase, PostgreSQL, Row-Level Security (RLS), Realtime, Authentication |
+I care about the parts of software that make a product useful in the real world:
 
-Throughout the project, I have contributed to features including:
+- Clear interfaces for complicated workflows
+- Full-stack applications with thoughtful data flow
+- Real-time features and developer tooling
+- Secure, maintainable systems that can grow with the product
+- Visual experiences with a strong sense of place and personality
 
-- Shopping cart and checkout workflows
-- Buyer settings and saved payment methods
-- Voucher and discount management
-- Registry and gifting functionality
-- Seller earnings and payout reporting
-- Administrative dashboards and live session monitoring
-- Architecture refactoring and UI improvements
-- Performance optimization, debugging, and production bug fixes
+## Selected work
 
-The majority of the projects showcased on this profile are the result of real-world software development and production experience.
+| Project | What it solves | Built with |
+| --- | --- | --- |
+| [Webhook Debugger](https://webhook-debugger-6jyk.onrender.com) | A real-time inbox for capturing, inspecting, replaying, and verifying webhook requests. | React · TypeScript · Fastify · WebSockets · SQLite |
+| [PalengKART](https://byng-delivery.onrender.com) | A local marketplace connecting vendors and customers through ordering, maps, and delivery tracking. | React · Node.js · PostgreSQL · WebSockets · Leaflet |
+| **BazaarX** | Cross-platform marketplace features across visual search, seller operations, POS ordering, and buyer workflows. | React · React Native · Supabase · AI |
+| [Gather](https://gather-web-kxpw.onrender.com) | A scheduling platform that turns company-wide availability into a clear team decision. | React · Node.js · Socket.IO · Prisma · PostgreSQL |
 
----
+More case studies live in the [ALTAIR project index](./src/pages/ProjectsPage.tsx).
 
-## Technology Stack
+## Tech stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React
-- React Native
-- Expo
-- Tailwind CSS
-- Framer Motion
+```text
+Frontend       React · TypeScript · JavaScript · Vite · Tailwind CSS
+Backend        Node.js · Express · Fastify · REST APIs · WebSockets
+Data           PostgreSQL · Supabase · SQLite · Prisma · Raw SQL
+Product        Responsive UI · UX systems · API design · Authentication
+Deployment     Docker · Render · Vercel
+```
 
-### Backend
-- Node.js
-- Express.js
-- PHP
-- Supabase
-- PostgreSQL
-- MySQL
+## Currently
 
-### Languages & Tools
-- C
-- C++
-- C#
-- Java
-- Git & GitHub
-- Cloudinary
+I’m looking for opportunities where I can contribute across the product surface:
+understanding the problem, shaping the interface, designing the data flow, and
+shipping the system behind it.
 
-<p align="center">
-  <sub>Information Technology Student • Polytechnic University of the Philippines</sub>
-</p>
+If you’re building something thoughtful and need a developer who cares about
+both the experience and the engineering, [let’s talk](mailto:chrisjohnbagacina@gmail.com).
+
+<div align="center">
+
+<sub>Built with curiosity, care, and too many browser tabs.</sub>
+
+</div>
