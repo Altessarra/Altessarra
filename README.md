@@ -47,7 +47,7 @@ More case studies live in the [ALTAIR project index](./src/pages/ProjectsPage.ts
 ## Tech stack
 
 ```text
-Frontend       React · TypeScript · JavaScript · Vite · Tailwind CSS
+Frontend       React · TypeScript · Next.JS · JavaScript · Vite · Tailwind CSS
 Backend        Node.js · Express · Fastify · REST APIs · WebSockets
 Data           PostgreSQL · Supabase · SQLite · Prisma · Raw SQL
 Product        Responsive UI · UX systems · API design · Authentication
