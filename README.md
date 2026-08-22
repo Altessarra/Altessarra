@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./public/creator.png" alt="Chris John Albert Bagacina" width="150" />
-
 # Chris John Albert Bagacina
 
 ### Full-Stack Developer · Product-minded Engineer
